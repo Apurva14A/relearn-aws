@@ -1,0 +1,3 @@
+## AWS Shared responsibility
+
+* 
